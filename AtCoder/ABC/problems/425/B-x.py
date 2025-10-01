@@ -1,4 +1,6 @@
 # 順列全探索
+# memo
+# まずは全探索のような愚直な方法を試す
 from itertools import permutations
 
 N = int(input())
